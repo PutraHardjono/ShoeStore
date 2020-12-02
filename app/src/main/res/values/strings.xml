@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+
+    <string name="username_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="login">Login</string>
+    <string name="create">Create</string>
+    <string name="name_label">Name</string>
+    <string name="size_label">Size</string>
+    <string name="company_label">Company</string>
+    <string name="description_label">Description</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="welcome_header">Welcome to Shoe Store</string>
+    <string name="welcome_body">Tap "Instruction" on how to use the app</string>
+
+    <string name="go">Instruction >></string>
+
+    <string name="instruction">Instructions</string>
+    <string name="instruction_first">1. Add shoe: tap on right bottom corner button</string>
+    <string name="instruction_second">2. To view information of each shoe: tap on the specific product on the list</string>
+    <string name="instruction_third">3. Log out: tap on right top corner button </string>
+
+    <string name="start">Start</string>
+
+    <string name="content_desc_fab">Add Button</string>
+
+    <string name="error_email_field_empty">Email must not be empty</string>
+    <string name="error_password_field_empty">Password must not be empty</string>
+    <string name="error_email_invalid">Incorrect e-mail address</string>
+    <string name="error_shoe_name_empty">Name must not be empty</string>
+    <string name="error_shoe_name_exist">Name is already exist</string>
+
+    <string name="invalid_login">*Invalid Email or Password</string>
+    <string name="email_exist">Email is already exist</string>
+    <string name="logout">Logout</string>
+    <string name="shoe_store">Shoe Store</string>
+    <string name="welcome">Welcome</string>
+</resources>
